@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### Mail: sabir.s.bagwan@gmail.com
-#### LinkedIn: https://www.linkedin.com/in/sabirbagwan/
+
+#### My LinkedIn: https://www.linkedin.com/in/sabirbagwan/
 <!--
 **sabirbagwan/sabirbagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
