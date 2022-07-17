@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+#### My MailId: sabir.s.bagwan@gmail.com
 #### My LinkedIn: https://www.linkedin.com/in/sabirbagwan/
+#### My Interests: Data Science | Data Analysis | Machine Learning
 <!--
 **sabirbagwan/sabirbagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
