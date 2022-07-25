@@ -4,8 +4,8 @@
 #### My LinkedIn: https://www.linkedin.com/in/sabirbagwan/
 #### My Interests: Data Science | Data Analysis | Machine Learning | Deep Learning | Artificial Intelligence 
 #### Sources I learned from:
-#### Youtube Channels -> codewithharry / geekyshows / krishnaik / Codebasics and many others
-#### Books -> Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+####    Youtube Channels -> codewithharry / geekyshows / krishnaik / Codebasics and many others
+####    Books -> Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
 Book by Geron Aurelien and some others
 <!--
 **sabirbagwan/sabirbagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
