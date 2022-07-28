@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Sabir! 👋
 
+#### My Subjects of Interest: Statistics | Data Science | Data Analysis | Machine Learning | Deep Learning | Artificial Intelligence 
+#### My Domains of Interest: Finance | Automation
 #### My MailId: sabir.s.bagwan@gmail.com
 #### My LinkedIn: https://www.linkedin.com/in/sabirbagwan/
-#### My Interests: Data Science | Data Analysis | Machine Learning | Deep Learning | Artificial Intelligence 
 #### Sources I learned from:
-##### Youtube Channels -> codewithharry | geekyshows | krishnaik | Codebasics | Khan Academy | KeithGalli | FreeCodeCamp.org | LearnPythonWithRune and many others
+##### Youtube Channels -> codewithharry | geekyshows | krishnaik | Codebasics | Khan Academy | Andrew Ng | KeithGalli | FreeCodeCamp.org | LearnPythonWithRune and many others
 <!--
 **sabirbagwan/sabirbagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
