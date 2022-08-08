@@ -7,8 +7,17 @@
 #### My Linktree: https://linktr.ee/sabirbagwan
 #### Sources I learned from:
 ##### Youtube Channels -> codewithharry | geekyshows | krishnaik | Codebasics | Khan Academy | Andrew Ng | KeithGalli | FreeCodeCamp.org | LearnPythonWithRune and many others
+##### Books: 
+##### 1. Financial Theory with Python by Yves Hilpisch
+##### 2. Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce
+
 <!--
 **sabirbagwan/sabirbagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
 
 Here are some ideas to get you started:
 
