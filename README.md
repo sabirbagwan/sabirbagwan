@@ -1,6 +1,6 @@
 ### Hi there, I'm Sabir! 👋
 
-#### My Subjects of Interest: Statistics | Data Science | Data Analysis | Machine Learning | Deep Learning | Artificial Intelligence 
+#### My Subjects of Interest: Linear Algebra | Statistics | Data Science | Data Analysis | Machine Learning | Deep Learning | Artificial Intelligence 
 #### My Domains of Interest: Finance | Automation
 #### My LinkedIn: https://www.linkedin.com/in/sabirbagwan/
 #### My Linktree: https://linktr.ee/sabirbagwan
