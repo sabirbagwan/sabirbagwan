@@ -1,7 +1,6 @@
 ### Hi there, I'm Sabir! 👋
 
 #### My Subjects of Interest: Linear Algebra | Statistics | Data Science | Data Analysis | Machine Learning | Deep Learning | Artificial Intelligence 
-#### My Linktree: https://linktr.ee/sabirbagwan
 #### Sources I learned from:
 ##### Youtube Channels:
 ###### codewithharry | geekyshows | krishnaik | Codebasics | Khan Academy | Andrew Ng | KeithGalli | FreeCodeCamp.org | LearnPythonWithRune and many others
