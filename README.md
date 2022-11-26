@@ -1,6 +1,5 @@
 ### Hi there, I'm Sabir! 👋
 
-#### My Subjects of Interest: Data Science | Machine Learning 
 
 
 <!--
