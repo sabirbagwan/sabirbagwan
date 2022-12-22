@@ -1,4 +1,10 @@
-### Hi there, I'm Sabir! 👋
+<!-- ### Hi there, I'm Sabir! 👋 
+
+<h1 align="center">Hi 👋, I'm Sabir Bagwan</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
+
+-->
+<h1 align="center">Hi, I'm Sabir</h1>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabirbagwan&show_icons=true&locale=en&layout=compact" alt="sabirbagwan" /></p>
