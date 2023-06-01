@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python and Related Stuff!
 - 👯 I’m looking to collaborate on Python Related Stuff!
-- 🤔 My learning bucket list includes Generative AI, PyTorch
-- ⚡ Fun fact: Did you know, there's a variable naming convention named Kebab-case, which is typed as kebab-case-python-example?
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sabirbagwan&show_icons=true&theme=transparent" alt="sabirbagwan" />
 </p>
